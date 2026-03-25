@@ -10,6 +10,7 @@ hotel booking.pbix – Power BI dashboard file containing data model, transforma
 2.Identify cancellation trends and factors affecting them
 3.Understand customer segmentation (e.g., type of hotel, stay duration)
 4.Provide insights into revenue and occupancy rates
+
 📊 Key Features
 📅 Time-based Analysis (monthly/yearly bookings)
 ❌ Cancellation Insights
