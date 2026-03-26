@@ -1,0 +1,45 @@
+# 🏨 Hotel Booking SQL Case Study
+
+## 📊 Business Problem Statements 
+
+1. Calculate the **total revenue** generated from hotel bookings.
+
+2. Find **hotel-wise revenue performance**.
+
+3. Analyze **city-wise revenue distribution**.
+
+4. Identify the **top-performing hotel** based on revenue.
+
+5. Calculate **region-wise revenue**.
+
+6. Find the **average customer rating** for each hotel.
+
+7. Identify the **most frequently booked room type**.
+
+8. Calculate the **average price per room type**.
+
+9. Analyze **monthly booking revenue trends** using booking date.
+
+10. Separate **Booking Date into Year, Month, and Day** for reporting analysis.
+
+11. Calculate **Booking Status distribution percentage** (Confirmed, Cancelled, Pending).
+
+12. Calculate **Refund Status percentage**.
+
+13. Compute **total refund amount** based on refunded bookings.
+
+14. Show **Refund Status and Refund Amount** in a single query.
+
+15. Identify whether a booking is a **Weekend Check-in (TRUE/FALSE)**.
+
+16. Calculate **Weekend Check-in Percentage** compared to weekday bookings.
+
+17. Count and calculate percentage of **TRUE vs FALSE weekend check-ins**.
+
+---
+
+## 🎯 Objective
+
+Use SQL to analyze hotel booking data and generate business insights such as revenue performance, customer behavior, booking trends, and refund analysis.
+
+---
