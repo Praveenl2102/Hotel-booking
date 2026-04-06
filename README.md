@@ -4,7 +4,7 @@
 This project is a Power BI dashboard that analyzes hotel booking data to uncover insights related to customer behavior, booking trends, cancellations, and revenue patterns. The goal is to support data-driven decision-making in the hospitality industry.
 
 📁 File Included
-hotel booking.pbix – Power BI dashboard file containing data model, transformations, and visualizations
+ – Power BI dashboard file containing data model, transformations, and visualizations
 🎯 Objectives
 1.Analyze booking patterns across different time periods
 2.Identify cancellation trends and factors affecting them
@@ -32,10 +32,6 @@ Developed DAX measures for KPIs
 Designed interactive dashboards
 📷 Dashboard Preview
 
-🚀 How to Use
-Download the .pbix file
-Open it using Power BI Desktop
-Explore the dashboard using filters and slicers
 
 📌 Insights You Can Get
 Peak booking seasons
