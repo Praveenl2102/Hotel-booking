@@ -38,3 +38,7 @@ Peak booking seasons
 Cancellation rate patterns
 Customer preferences
 Revenue trends across hotel types
+
+📧 Email: madinenipraveen828@gmail.com
+🔗 LinkedIn: linkedin.com/in/madineni-praveen-kumar-350047286
+💻 GitHub: github.com/Praveenl2102
